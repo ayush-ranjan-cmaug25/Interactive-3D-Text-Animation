@@ -1,0 +1,17 @@
+
+# System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Dependencies
+node_modules/
+dist/
+build/
+.env
+
+# Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
